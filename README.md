@@ -9,5 +9,6 @@ The learning process is built upon basic use cases on Strings, Networking, Colle
 1. Sanitize greetings string ( "  heLLo   MaRY  Jane" => "Hello Mary Jane")
 2. Implement method 'lotto' that draws N unique numbers from range 1..MAX
 3. Fetch number of repos for given from GitHub page
-4. ... more to come
+4. Implement @WithLogging annotation that will log each method execution of annotated class
+5. ... more to come
 ```
